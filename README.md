@@ -1,6 +1,6 @@
 <!-- ========================= HERO ========================= -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:2563eb&text=ABHISHEK%20KUMAR&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20%26%20Problem%20Solving&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Abhishek Kumar banner"/></p>
+<p align="center"><img src="./banner.png" width="100%" alt="Abhishek Kumar — Software Engineer"/></p>
 
 <p align="center"><a href="https://www.linkedin.com/in/abhishek-kumar-588513268"><img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:abhishek.cse2027@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/Abhishek7258"><img src="https://img.shields.io/badge/GitHub-Abhishek7258-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></p>
 <p align="center"><b>B.Tech Computer Science Engineering • 2027</b><br/>Ranchi, Jharkhand 🇮🇳</p>
