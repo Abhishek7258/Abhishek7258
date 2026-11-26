@@ -15,6 +15,26 @@
 
 ---
 
+## ⭐ Featured Project
+
+<table>
+<tr>
+<td>
+
+### 🛍️ [Saanjh — MERN E-commerce](https://github.com/Abhishek7258/saanjh_mern_ecommerce)
+
+**A full-stack online store: JWT authentication, admin dashboard, cart, and Razorpay checkout with server-side payment-signature verification (plus Cash on Delivery).**
+
+`MongoDB` `Express` `React` `Node.js` `Vite` `Razorpay` `JWT`
+
+[**View repository →**](https://github.com/Abhishek7258/saanjh_mern_ecommerce)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 👋 Hi, I’m Abhishek
 
 I build software by **learning the fundamentals, solving problems, and shipping working products**.
