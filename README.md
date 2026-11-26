@@ -15,6 +15,26 @@
 
 ---
 
+## ⭐ Featured Project
+
+<table>
+<tr>
+<td>
+
+### 🛍️ [Saanjh — MERN E-commerce](https://github.com/Abhishek7258/saanjh_mern_ecommerce)
+
+**A full-stack online store: JWT authentication, admin dashboard, cart, and Razorpay checkout with server-side payment-signature verification (plus Cash on Delivery).**
+
+`MongoDB` `Express` `React` `Node.js` `Vite` `Razorpay` `JWT`
+
+[**View repository →**](https://github.com/Abhishek7258/saanjh_mern_ecommerce)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 👋 Hi, I’m Abhishek
 
 I build software by **learning the fundamentals, solving problems, and shipping working products**.
@@ -40,21 +60,29 @@ My current focus is full-stack engineering with **React, Node.js and REST APIs**
 
 > **A small number of projects, chosen for signal rather than volume.**
 
-### 🛡️ [DeepShield](https://github.com/Abhishek7258/Deepsheild)
-**Deep-learning experimentation around detection, adversarial perturbations and evaluation.**
-`Python` `Jupyter` `Deep Learning` · Research / experimentation
+### 🛍️ [Saanjh — MERN E-commerce](https://github.com/Abhishek7258/saanjh_mern_ecommerce)
+**Full-stack store with JWT authentication, an admin dashboard, cart and Razorpay checkout with server-side payment-signature verification.**
+`React` `Vite` `Node.js` `Express` `MongoDB` `Razorpay` · Full-stack
 
-### 🧠 [NIAMT Project](https://github.com/Abhishek7258/NIAMT-Project)
-**Academic project combining a web interface with an AI object-detection component.**
-`HTML` `CSS` `JavaScript` `AI / Object Detection`
-
-### 🌐 [SFAIwala](https://github.com/Abhishek7258/sfaiwala)
-**Modern Vite-based web application focused on component-driven frontend development.**
-`React` `JavaScript` `Vite` · UI / Frontend
+### 🔮 Tarot Course Landing Page *(private repo)*
+**Conversion-focused landing page for a live 3-day Tarot course, with Razorpay checkout, server-side order creation and payment-signature verification, and a webhook fallback.**
+`React` `Vite` `Tailwind CSS` `Express` `Razorpay` · Full-stack
 
 ### 🏥 [BabyMaker IVF](https://github.com/Abhishek7258/BabyMakerIvf)
-**Healthcare-focused frontend application designed around a real-world service experience.**
-`JavaScript` `Vite` `Responsive UI` · Client-oriented development
+**Multi-page IVF clinic website with a booking flow, rule-based chatbot and theme switching.**
+`React` `Vite` `Tailwind CSS` `React Router` · Client-oriented development
+
+### 🧹 [SFAIwala](https://github.com/Abhishek7258/sfaiwala)
+**Responsive cleaning-services website with a service catalogue and WhatsApp enquiries.**
+`React` `Vite` `Tailwind CSS` · Frontend
+
+### 🩺 [NIAMT Project](https://github.com/Abhishek7258/NIAMT-Project)
+**Medical symptom checker built during a research internship, powered by the Gemini API.**
+`JavaScript` `Gemini API` `HTML/CSS` · AI-assisted web app
+
+### 🛡️ [DeepShield](https://github.com/Abhishek7258/Deepsheild)
+**Image-cloaking toolkit exploring GAN-style perturbations, DCT watermarking and detection.**
+`Python` `TensorFlow` `OpenCV` `Tkinter` · Research / experimentation
 
 <p align="center"><a href="https://github.com/Abhishek7258?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/></a></p>
 
@@ -99,7 +127,7 @@ Coordinate with student teams and GeeksforGeeks staff to run mentorship, coding 
 
 ## 📊 GitHub Snapshot
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhishek7258&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false&theme=transparent" height="165" alt="GitHub statistics"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek7258&layout=compact&hide_border=true&langs_count=7&theme=transparent" height="165" alt="Top languages"/></p>
+<p align="center"><a href="https://github.com/Abhishek7258?tab=repositories"><img src="https://img.shields.io/github/followers/Abhishek7258?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/></a> <a href="https://github.com/Abhishek7258?tab=repositories"><img src="https://img.shields.io/badge/Repos-30%2B-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a></p>
 
 ---
 
