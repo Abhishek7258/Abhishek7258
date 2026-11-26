@@ -44,6 +44,10 @@ My current focus is full-stack engineering with **React, Node.js and REST APIs**
 **Full-stack store with JWT authentication, an admin dashboard, cart and Razorpay checkout with server-side payment-signature verification.**
 `React` `Vite` `Node.js` `Express` `MongoDB` `Razorpay` · Full-stack
 
+### 🔮 Tarot Course Landing Page *(private repo)*
+**Conversion-focused landing page for a live 3-day Tarot course, with Razorpay checkout, server-side order creation and payment-signature verification, and a webhook fallback.**
+`React` `Vite` `Tailwind CSS` `Express` `Razorpay` · Full-stack
+
 ### 🏥 [BabyMaker IVF](https://github.com/Abhishek7258/BabyMakerIvf)
 **Multi-page IVF clinic website with a booking flow, rule-based chatbot and theme switching.**
 `React` `Vite` `Tailwind CSS` `React Router` · Client-oriented development
